@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "value": 1.4878744099629686,
+      "desc": "United States"
+    },
+    {
+      "value": 0.5922128813623365,
+      "desc": "Brazil"
+    },
+    {
+      "value": 0.5565134968008792,
+      "desc": "India"
+    },
+    {
+      "value": 0.44022897111790404,
+      "desc": "Indonesia"
+    },
+    {
+      "value": 0.3590790171237203,
+      "desc": "Mexico"
+    },
+    {
+      "value": 0.29401874365933495,
+      "desc": "United Kingdom"
+    },
+    {
+      "value": 0.2909836185930301,
+      "desc": "Turkey"
+    },
+    {
+      "value": 0.27252194047055184,
+      "desc": "Philippines"
+    },
+    {
+      "value": 0.23002405615433513,
+      "desc": "France"
+    },
+    {
+      "value": 0.22805596019752172,
+      "desc": "Germany"
+    },
+    {
+      "value": 0.20891888782551918,
+      "desc": "Italy"
+    },
+    {
+      "value": 0.18491370935905593,
+      "desc": "Argentina"
+    },
+    {
+      "value": 0.1648030518469139,
+      "desc": "Thailand"
+    },
+    {
+      "value": 0.16410997900859337,
+      "desc": "Canada"
+    },
+    {
+      "value": 0.1574049232231858,
+      "desc": "Colombia"
+    },
+    {
+      "value": 0.15556689116965952,
+      "desc": "Spain"
+    },
+    {
+      "value": 0.14300354792343484,
+      "desc": "Japan"
+    },
+    {
+      "value": 0.12102599535565012,
+      "desc": "Malaysia"
+    },
+    {
+      "value": 0.11934526666365833,
+      "desc": "Taiwan"
+    },
+    {
+      "value": 0.11257995936133272,
+      "desc": "Egypt"
+    }
+  ]
+}
