@@ -15,7 +15,6 @@ class Preloader
       x         : @layer.getWidth() / 2 - 45
       y         : @layer.getHeight() / 2 - 20
     })
-    return @
 
   initialize: ->
     for i in [0...3]
@@ -81,7 +80,6 @@ class Preloader
       callback: =>
         @layer.remove(@container)
     })
-    return @
 
 ##################################################
 ## Cell class
@@ -252,7 +250,6 @@ class Pie
       opacity: 0
       name: 'label_'+@index
     })
-    return @
 
   initialize: ->
     that = @
